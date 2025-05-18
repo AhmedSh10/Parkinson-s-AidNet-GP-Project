@@ -22,8 +22,11 @@ For detailed information about the project, please refer to the attached documen
 - Signal Processing
 
 ## Contributors
-- [Your Name]
-- [Team Members]
+- Ahmed Sherif
+- Reham Ashraf
+- Tasneem Selim
+- Soad Sabry
+- Ebthal Karam
 
 ## License
-[License Information]
+@Parkinson's AidNet Team
