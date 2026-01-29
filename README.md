@@ -249,7 +249,7 @@ For questions, collaborations, or more information:
 
 **Ahmed Sherif (Lead Developer)**
 - GitHub: [@AhmedSh10](https://github.com/AhmedSh10)
-- LinkedIn: [Ahmed Shaaban](https://linkedin.com/in/ahmed-shaaban)
+- LinkedIn: [Ahmed Sherif](https://linkedin.com/in/dev-ahmed-sherif)
 
 ## 📚 References
 
